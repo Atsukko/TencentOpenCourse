@@ -5,6 +5,7 @@
 <div align=center>
 <img src="Assignments/Assignment_01/images/img1.png"><br>
 </div>
+
 &emsp;&emsp;报名公开课课前已经安装UE5.3.2源码版，并参与过腾讯图形学实践课，有一定的源码阅读、调试经验。<br>
 <br>
 
@@ -12,6 +13,7 @@
 <div align=center>
 <img src="Assignments/Assignment_01/images/img2.png" width="480px"><br>
 </div>
+
 &emsp;&emsp;使用源码引擎创建第一人称工程，完成Android环境配置并打包apk在安卓手机上成功运行，运行操作录像及手机录屏见[Video][Link1]
 <br>
 
