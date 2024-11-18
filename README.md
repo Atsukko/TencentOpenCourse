@@ -18,7 +18,10 @@
 <br>
 
 #### 3. 课堂笔记
-&emsp;&emsp;整理了一个XMind脑图笔记，对老师上课讲的一些UE debug方法做了代码实现，对引擎工具进行了使用并整理了用法，将课上提到的一些内容链接到XMind中我之前做的学习笔记，例如UE的Gameplay架构，UE的反射原理，UObject序列化等。
+&emsp;&emsp;整理了一个XMind脑图笔记，见[Note][Link2]，对老师上课讲的一些UE debug方法做了代码实现，对引擎工具进行了使用并整理了用法，将课上提到的一些内容链接到XMind中我之前做的学习笔记，例如UE的Gameplay架构，UE的反射原理，UObject序列化等(类似下图)。
+<div align=center>
+<img src="Assignments/Assignment_01/images/img4.png" width="480px"><br>
+</div>
    
 
 
@@ -32,3 +35,4 @@
 
 
 [Link1]:Assignments/Assignment_01/videos
+[Link2]:Assignments/Assignment_01/Note.png
