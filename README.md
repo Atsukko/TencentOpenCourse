@@ -35,4 +35,4 @@
 
 
 [Link1]:Assignments/Assignment_01/videos
-[Link2]:Assignments/Assignment_01/Note.png
+[Link2]:Assignments/Assignment_01/Note.xmind
